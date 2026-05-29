@@ -5,3 +5,6 @@
 [submodule "crandep"]
 	path = crandep
 	url = https://github.com/clement-lee/crandep
+[submodule "ggspec"]
+	path = ggspec
+	url = https://github.com/clement-lee/ggspec
